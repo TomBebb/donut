@@ -1,8 +1,8 @@
 // Copyright 2019-2020 the donut authors. See AUTHORS.md
 
-#include "RenderBuffer.h"
+#include "Render/OpenGL/RenderBuffer.h"
 
-#include "FrameBuffer.h"
+#include "Render/OpenGL/FrameBuffer.h"
 
 namespace Donut::GL
 {

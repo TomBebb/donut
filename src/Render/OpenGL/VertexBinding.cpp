@@ -1,9 +1,9 @@
 // Copyright 2019-2020 the donut authors. See AUTHORS.md
 
-#include "VertexBinding.h"
+#include "Render/OpenGL/VertexBinding.h"
 
-#include "IndexBuffer.h"
-#include "VertexBuffer.h"
+#include "Render/OpenGL/IndexBuffer.h"
+#include "Render/OpenGL/VertexBuffer.h"
 
 namespace Donut::GL
 {

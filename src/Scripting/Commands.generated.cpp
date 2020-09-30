@@ -14,7 +14,7 @@
   +---------------------------------------------------+
 */
 
-#include "Commands.h"
+#include "Scripting/Commands.h"
 
 namespace Donut
 {

@@ -48,6 +48,7 @@ target_link_libraries(${PROJECT_NAME}
 		Bullet::Bullet
 		OpenAL::OpenAL
 		fmt::fmt
+		${CMAKE_DL_LIBS}
 	)
 
 # configure filesystem for slightly older compilers

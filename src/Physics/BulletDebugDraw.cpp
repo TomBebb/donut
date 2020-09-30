@@ -1,8 +1,8 @@
 // Copyright 2019-2020 the donut authors. See AUTHORS.md
 
-#include "BulletDebugDraw.h"
+#include "Physics/BulletDebugDraw.h"
 
-#include "BulletCast.h"
+#include "Physics/BulletCast.h"
 #include "Core/Math/Vector4.h"
 
 namespace Donut

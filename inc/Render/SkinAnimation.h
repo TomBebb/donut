@@ -6,6 +6,7 @@
 #include "Core/Math/Quaternion.h"
 #include "Core/Math/Vector3.h"
 
+#include <glm/glm.hpp>
 #include <memory>
 #include <string>
 #include <vector>

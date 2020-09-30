@@ -99,6 +99,8 @@ endif()
 # The Code
 add_subdirectory(src)
 
+target_include_directories(donut PUBLIC inc inc/Render/imgui inc/Render/OpenGL/glad)
+
 set_property(DIRECTORY ${CMAKE_CURRENT_SOURCE_DIR} PROPERTY VS_STARTUP_PROJECT ${PROJECT_NAME})
 set_property(TARGET ${PROJECT_NAME} PROPERTY VS_DEBUGGER_WORKING_DIRECTORY "${PROJECT_BINARY_DIR}/bin/$<CONFIG>")
 set_property(GLOBAL PROPERTY USE_FOLDERS ON)

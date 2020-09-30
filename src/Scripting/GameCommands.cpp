@@ -1,6 +1,6 @@
 // Copyright 2019-2020 the donut authors. See AUTHORS.md
 
-#include "GameCommands.h"
+#include "Scripting/GameCommands.h"
 
 #include <fmt/format.h>
 #include <iostream>

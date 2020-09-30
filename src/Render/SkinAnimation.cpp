@@ -1,6 +1,6 @@
 // Copyright 2019-2020 the donut authors. See AUTHORS.md
 
-#include "SkinAnimation.h"
+#include "Render/SkinAnimation.h"
 
 namespace Donut
 {

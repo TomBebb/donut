@@ -1,6 +1,6 @@
 // Copyright 2019-2020 the donut authors. See AUTHORS.md
 
-#include "WorldSphere.h"
+#include "Render/WorldSphere.h"
 
 #include "Game.h"
 #include "Render/LineRenderer.h"

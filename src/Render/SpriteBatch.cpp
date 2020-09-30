@@ -1,6 +1,6 @@
 // Copyright 2019-2020 the donut authors. See AUTHORS.md
 
-#include "SpriteBatch.h"
+#include "Render/SpriteBatch.h"
 
 #include "Core/Math/Math.h"
 #include "Render/Font.h"

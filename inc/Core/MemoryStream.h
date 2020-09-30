@@ -2,6 +2,8 @@
 
 #pragma once
 
+// for std::memcpy
+#include <cstring>
 #include <string>
 #include <vector>
 
